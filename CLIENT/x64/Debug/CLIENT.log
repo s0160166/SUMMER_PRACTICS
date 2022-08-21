@@ -1,0 +1,7 @@
+﻿  CLIENT.cpp
+C:\Users\danil\source\repos\CLIENT\CLIENT.cpp(87,29): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\danil\source\repos\CLIENT\CLIENT.cpp(113,33): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\danil\source\repos\CLIENT\CLIENT.cpp(156,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danil\source\repos\CLIENT\CLIENT.cpp(83,27): warning C4101: 'row': unreferenced local variable
+C:\Users\danil\source\repos\CLIENT\CLIENT.cpp(109,31): warning C4101: 'row': unreferenced local variable
+  CLIENT.vcxproj -> C:\Users\danil\source\repos\CLIENT\x64\Debug\CLIENT.exe
